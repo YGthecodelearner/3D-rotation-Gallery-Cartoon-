@@ -1,0 +1,16 @@
+<div class="box">
+<div class="single-rb">
+<div class="front-side">
+  <img src="https://lh3.googleusercontent.com/H5RkbWts8BEmPx8rcleihItBVXaJj8oZ8LznWvo1kGEBZo7CGaNH-l6wTzHTuCpAJQ" alt="">
+  </div>
+  <div class="back-side">
+    <img src="https://c4.wallpaperflare.com/wallpaper/321/512/923/tom-and-jerry-heroes-cartoons-desktop-hd-wallpaper-for-mobile-phones-tablet-and-pc-1920%C3%971200-wallpaper-preview.jpg" alt="">
+    </div>
+  <div class="left-side">
+    <img src="https://i.ytimg.com/vi/oa_13oxXc5k/maxresdefault.jpg" alt="">
+    </div>
+  <div class="right-side">
+    <img src="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/feature/images/motu.jpg?itok=1WZHP8hB" alt="">
+    </div>
+</div>
+</div>
